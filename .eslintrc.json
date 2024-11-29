@@ -1,3 +1,8 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "warn", // Change to "off" to disable or "warn" to log warnings
+    "no-var": "error", // Enforce 'let' or 'const' instead of 'var'
+    "react-hooks/exhaustive-deps": "warn" // Warn for missing dependencies instead of erroring
+  }
 }

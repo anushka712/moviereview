@@ -1,0 +1,84 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Lagaan",
+        "slug": "Lagaan",
+        "description": "Set during the British colonial era, this epic drama follows a group of Indian villagers who challenge.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/movies/shiva.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Dangal",
+        "slug": "Dangal",
+        "description": "Based on the true story of wrestler Mahavir Singh Phogat and his daughters Geeta and Babita,",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image":  "/movies/photo.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Zindagi Na Milegi Dobara ",
+        "slug": "advanced-vocal-techniques",
+        "description": "Three childhood friends go on a road trip through Spain, where they face their fears, .",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image":  "/movies/purna.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Kabhi Khushi Kabhie Gham ",
+        "slug": "drumming-mastery",
+        "description": "A family drama that revolves around the dynamics between a wealthy family and their estranged son.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image":  "/movies/shiva.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Sholay",
+        "slug": "jazz-improvisation",
+        "description": "A classic action film about two ex-convicts who are hired by a retired police officer to capture a ruthless bandit..",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/movies/purna.jpg"
+      },
+      {
+        "id": 6,
+        "title": "3 Idiots",
+        "slug": "music-production-fundamentals",
+        "description": "A comedy-drama about three engineering students, focusing on the pressure of academic life. ",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image":  "/movies/shivji.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mughal-e-Azam",
+        "slug": "songwriting-essentials",
+        "description": " A historical drama about the forbidden love between Prince Salim and Anarkali, ",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/movies/purna.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Piku",
+        "slug": "electronic-music-production",
+        "description": "A quirky comedy-drama about a father-daughter relationship. The film portrays a daughter's ",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/movies/stock.jpg"
+      }
+    ]
+  }
